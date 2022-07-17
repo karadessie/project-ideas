@@ -12,15 +12,32 @@
    Similar to Rate My Professor, users can search for a hair stylist by city and hair salon. Stylists by hair salon
    and location will be added and stored in a databse. Users can search for a stylist and view their reviews or add a
    review. If the stylist is not found they can add them to a salon. If the salon is not found they can add the salon
-   and then the stylist before adding their review.
+   and then the stylist before adding their review. Users can also select a list of salons by city, and then select a 
+   salon to read their hair stylists' reviews.
 
-3. Home cooking App: grocery inventory, shopping lists, recipes with nutrition facts, daily nutrition goals
-4. Virtual Scrapbook: save pictures, certificates, diplomas, dates, names, family history, make printable pages, add design or décor
-5. Global Climate Change App
+3. Home cooking App
+
+   Application includes a database on the backend for grocery inventory, recipes, menu plans, and nutrition goals. Recipes 
+   added or selected by the user are used to create a weekly menu plan. The menu plan is matched against grocery inventory
+   to produce a shopping list. Menu plans can be saved, modified, or deleted. Links to free nutrition apps are included on 
+   the website to enter a menu plan and calculate nutrition stats. Nutrition by menu plan can then be compared to nutrition 
+   goals. If needed, recipes can be added to or deleted from a menu plan to meet nutrition goals. Nutrition goals can also
+   be added, modified, or deleted.
+   
+4. Virtual Scrapbook Website
+
+   Pictures can be saved or digitally modified and then saved on a database. Family history can be typed in and saved,
+   and certificates such as birth certificates, awards, diplomas, etc. can be scanned in and saved. Family names and dates
+   can also be entered and updated. All information entered on the database can be printed or shared by the user. When
+   printing, emojis, graphics, colors, and special effects can be added to the pages, and the user can select any of the
+   page content from their saved data. Users are also given a selection of different page formats to choose from.
+
+5. Global Climate Change System
 
    Users can access a home app where they can link to their utility account and track expenses and trends, upload shopping
-   receipts and expenses, set energy usage and budget goals, and track their progress. They can also access a community
-   app using their library card, where they can view eco-friendly community boards and submit posts or suggestions. 
-   Additionally, users can sign in and view state, national, and global apps displaying daily CO2 emissions, particulate 
-   counts and climnate change news stories. Administrative functions, including instant messaging and conferencing between
-   stakeholders with administrator priveleges, are included in the application.
+   receipts and expenses, set energy usage and budget goals, and track their progress. App includes links to eco-friendly
+   personal apps and links to other apps in the system. They can also access a community app using their library card where 
+   they can view eco-friendly community boards and submit posts or suggestions. Additionally, users can sign in and view 
+   state, national, and global apps displaying daily CO2 emissions, particulate counts and climnate change news stories. 
+   Administrative functions, including instant messaging and conferencing between stakeholders with similar administrator 
+   priveleges, are included in the system.
