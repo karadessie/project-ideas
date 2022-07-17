@@ -1,7 +1,26 @@
-Project Ideas
+                                       Project Ideas
 
 1. Personal Medical App
+
+   Database of test results and personal medical information, including home blood glucose results, blood pressure, 
+   heart rate, weight, etc. Users can enter personal results and stats and also link to their patient portal(s). They can
+   keep and update a list of their healthcare professionals, including specialty and contact information. Additionally, 
+   users can save and update their insurance information and a list of current medications.
+
 2. Rate My Hair Stylist
+
+   Similar to Rate My Professor, users can search for a hair stylist by city and hair salon. Stylists by hair salon
+   and location will be added and stored in a databse. Users can search for a stylist and view their reviews or add a
+   review. If the stylist is not found they can add them to a salon. If the salon is not found they can add the salon
+   and then the stylist before adding their review.
+
 3. Home cooking App: grocery inventory, shopping lists, recipes with nutrition facts, daily nutrition goals
 4. Virtual Scrapbook: save pictures, certificates, diplomas, dates, names, family history, make printable pages, add design or décor
 5. Global Climate Change App
+
+   Users can access a home app where they can link to their utility account and track expenses and trends, upload shopping
+   receipts and expenses, set energy usage and budget goals, and track their progress. They can also access a community
+   app using their library card, where they can view eco-friendly community boards and submit posts or suggestions. 
+   Additionally, users can sign in and view state, national, and global apps displaying daily CO2 emissions, particulate 
+   counts and climnate change news stories. Administrative functions, including instant messaging and conferencing between
+   stakeholders with administrator priveleges, are included in the application.
